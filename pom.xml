@@ -16,7 +16,7 @@
   <properties>
     <springframework.version>5.0.2.RELEASE</springframework.version>
     <springsecurity.version>5.0.0.RELEASE</springsecurity.version>
-    <c3po.version>0.9.5.2</c3po.version>
+    <c3po.version>0.9.5.4</c3po.version>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
